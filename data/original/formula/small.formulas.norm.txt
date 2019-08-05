@@ -1,0 +1,17 @@
+\alpha + \beta
+\frac { 1 } { 2 }
+\frac { \alpha } { \beta }
+1 + 2
+\alpha + \beta
+\frac { 1 } { 2 }
+\frac { \alpha } { \beta }
+1 + 2
+\alpha + \beta
+\frac { 1 } { 2 }
+e = m c ^ {2}
+C = 2 \pi r
+A = \pi r ^ { 2 }
+G _ { \mu v } = 8 \pi G ( T _ { \mu v } + \rho _ { v } g _ { \mu v })
+x ^ { 2 } + y ^ { 2} = z ^ { 2 }
+1 + 1 = 2 
+\frac { 1 } { 1 + e ^ { - x } }
